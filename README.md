@@ -43,7 +43,6 @@ For this app we are deploying using [Vercel](https://vercel.com/) and have defin
 
 ## Tech Stack
 
-- [Turborepo](https://turborepo.org/)
 - React
 - Typescript
 - Webpack v5 (w/ Module Federation)
